@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AEtherSurfer/async.png)](https://travis-ci.org/AEtherSurfer/async)
+
 # Scala Async Project
 
 ## Quick start
